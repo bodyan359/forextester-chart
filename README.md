@@ -15,5 +15,3 @@ Code quality
 Performance
 Creativity in approach (where creativity is needed :) )
 Proficiency in AI tools.
-
-
